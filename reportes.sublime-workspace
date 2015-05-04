@@ -1,0 +1,1772 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"add",
+				"addEvent(\"ready"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"coursegr",
+				"coursegroupid"
+			],
+			[
+				"get_",
+				"get_records_sql"
+			],
+			[
+				"course",
+				"courseid"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"ruta",
+				"rutavacia〔variable〕"
+			],
+			[
+				"num",
+				"numberpage"
+			],
+			[
+				"number",
+				"$numberpage〔variable〕"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"rw",
+				"$rwporcentaje〔variable〕"
+			],
+			[
+				"items_",
+				"items_Save"
+			],
+			[
+				"colspan",
+				"colspan=\"6"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"data-",
+				"data-content-table"
+			],
+			[
+				"get_rec",
+				"get_record_sql"
+			],
+			[
+				"m_c",
+				"m_Compras"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"html",
+				"htmltemplate"
+			],
+			[
+				"focus",
+				"focusout"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"strup",
+				"strtoupper"
+			],
+			[
+				"m_",
+				"m_Proveedor"
+			],
+			[
+				"vali",
+				"validation_errors"
+			],
+			[
+				"Ordende",
+				"OrdendeCompra_Agregar"
+			],
+			[
+				"u",
+				"site_url"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"m_C",
+				"m_Compras"
+			],
+			[
+				"COMPRAS",
+				"COMPRASYGASTOS"
+			],
+			[
+				"come",
+				"comentfunction	comentfunction"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"data",
+				"dataID"
+			],
+			[
+				"Em",
+				"EmpleadoId"
+			],
+			[
+				"dat",
+				"dateFormat"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is_j",
+				"is_object"
+			],
+			[
+				"show",
+				"show_404"
+			],
+			[
+				"seria",
+				"serialize"
+			],
+			[
+				"form",
+				"formdata"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"mess",
+				"message_resume"
+			],
+			[
+				"NuevoEmp",
+				"NuevoEmpleadoDatosLaborales"
+			],
+			[
+				"cargo",
+				"cargo3desc"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"oncl",
+				"onclick"
+			],
+			[
+				"encry",
+				"mcrypt_encrypt"
+			],
+			[
+				"fn_agr",
+				"fn_agregarHijo"
+			],
+			[
+				"on",
+				"onsubmit"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"login",
+				"login_error"
+			],
+			[
+				"is_a",
+				"is_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"comp",
+				"Composer: Edit composer.json"
+			],
+			[
+				"compo",
+				"Composer: Add Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"delete p",
+				"z:AAAPackageDev: Delete Package"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"github log",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"github ",
+				"GitHub: Edit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"bs3 tro",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3 be",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"bs3 row",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3 label ",
+				"Snippet: bs3-label-info"
+			],
+			[
+				"bs3 warn",
+				"Snippet: bs3-button-warning"
+			],
+			[
+				"bs3 jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"bs3 ",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"gi",
+				"Git: Diff"
+			],
+			[
+				"glog",
+				"Git: Log"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git he",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git head",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"git bran",
+				"Git: Merge Branch"
+			],
+			[
+				"g branch",
+				"Git: New Branch"
+			],
+			[
+				"gbra",
+				"Legit: Branches"
+			],
+			[
+				"git bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gini",
+				"Git: Init"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"g ",
+				"Git: Log"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"g co",
+				"Git: Commit"
+			],
+			[
+				"git:",
+				"Git: Commit history"
+			],
+			[
+				"gi s",
+				"Git: Show"
+			],
+			[
+				"g push",
+				"Git: Push"
+			],
+			[
+				"g hea",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"g head",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"gi chec",
+				"Git: Checkout"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"g stat",
+				"Git: Status"
+			],
+			[
+				"git branc",
+				"Git: New Branch"
+			],
+			[
+				"git dif",
+				"Git: Diff"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gadd",
+				"Git: Quick Add"
+			],
+			[
+				"gta",
+				"Git: Tag"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"gchec",
+				"Git: Checkout"
+			],
+			[
+				"gco",
+				"Git: Commit"
+			],
+			[
+				"gstats",
+				"Git: Status"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"gstatus",
+				"Git: Status"
+			],
+			[
+				"ginit",
+				"Git: Init"
+			],
+			[
+				"bs3 aler",
+				"Snippet: bs3-alert"
+			],
+			[
+				"bs3 col",
+				"Snippet: bs3-col"
+			],
+			[
+				"bs3 con",
+				"Snippet: bs3-container"
+			],
+			[
+				"gc",
+				"Git: Checkout Commit"
+			],
+			[
+				"bs3 tex",
+				"Snippet: bs3-input-text-h"
+			],
+			[
+				"bs3 che",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"bs3 chec",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"label",
+				"Snippet: bs3-label-info"
+			],
+			[
+				"snippet:boot",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"gche",
+				"Git: Checkout Commit"
+			],
+			[
+				"gbranc",
+				"Legit: Branches"
+			],
+			[
+				"gire",
+				"Git: Remote"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"dif",
+				"Git: Diff"
+			],
+			[
+				"comits",
+				"Set Syntax: SublimeGit Commit Message"
+			],
+			[
+				"new bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"branc",
+				"Legit: Branches"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"gcomi",
+				"Git: Commit"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"gam",
+				"Git: Amend Commit"
+			],
+			[
+				"gdif",
+				"Git: Diff"
+			],
+			[
+				"gcomit",
+				"Git: Commit"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"exit",
+			"cls",
+			"commit -m \"iconos\"",
+			"$git commit -m \"iconos\"",
+			"git commit -m \"iconos\"",
+			"import os; os.system('git --version')",
+			"import os; print os.getenv('PATH')",
+			"import os; os.system('git --version')",
+			"import os; print os.getenv('PATH')",
+			"import os; print os.get env('PATH')",
+			"import os; print os.getenv('PATH')",
+			"import os; os.system('git --version')",
+			"import os; print os.getenv('PATH')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/reportes"
+	],
+	"file_history":
+	[
+		"/C/Users/Usuario/Desktop/query_jose.sql",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/questionnaire/report.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/lib/aws-sdk/Aws/CloudTrail/Exception/TrailAlreadyExistsException.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/blocks/pre_ucb/block_pre_ucb.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/blocks/pre_ucb/plantillas.php",
+		"/C/xampp/htdocs/pre_ucb/ucb/frontend/publicar-link.html",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/local/cursoendesarrollo/jquery/plugins.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/lib/aws-sdk/Guzzle/Log/PsrLogAdapter.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/blocks/pre_ucb/styles.css",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/local/cursoendesarrollo/styles.css",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/badges/criteria/award_criteria_courseset.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/config.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/theme/ucbclean/layout/course.php",
+		"/C/xampp/htdocs/pre_ucb/moodlecolaboradores/blocks/moodleblock.class.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/config.bak.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/config.bak.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/config-dist.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/config.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/config.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/javascript/jPaginate.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/style/README",
+		"/C/xampp/htdocs/abogado/bootstrap/autoload.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/style/editor.css",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/README.txt",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/lang/en/theme_ucbclean.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/layout/embedded.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/lib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/config.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/upgrade.txt",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/font.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/styles.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/classes/plugininfo/theme.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/pix/e/text_highlight.svg",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/tags.txt",
+		"/C/Users/Usuario/Desktop/jPaginate.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/javascript/ayu-off-canvas.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/javascript/script.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/local/detallescatalago/script.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/local/coursetag/script.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/local/coursegroup/script.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/blocks/course_list_progress/script.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/pix/e/source_code.svg",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/admin/search.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/blocks/course_list_progress/block_course_list_progress.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/admin/phpinfo.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/classes/php_time_limit.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/pear/HTTP/WebDAV/Tools/_parse_lockinfo.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/workshop/backup/moodle2/backup_workshop_settingslib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/minify/lib/CSSmin.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/install.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/assign/adminlib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/enrol/flatfile/adminlib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/adminlib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/Printer/CSSDefinition.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/TagTransform/Font.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/aws-sdk/Aws/ElastiCache/Exception/CacheSecurityGroupNotFoundException.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/Node.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpexcel/PHPExcel/Calculation/LookupRef.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/TokenFactory.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/DefinitionCacheFactory.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/HTMLModule/Nofollow.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/AttrTransform/Nofollow.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpexcel/PHPExcel/Calculation/Functions.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpexcel/PHPExcel/Calculation/Function.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/Injector/SafeObject.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpexcel/PHPExcel/Calculation/FormulaParser.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpexcel/PHPExcel/Calculation/FormulaToken.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/backup/util/helper/restore_inforef_parser_processor.class.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/phpmailer/language/phpmailer.lang-fo.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/javascript/vimeovideo.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/javascript/vimeovideo.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/quiz/renderer.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/quiz/view.php",
+		"/C/xampp/htdocs/consultora.html",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/zend/Zend/Service/LiveDocx.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/headermenu.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/footermenu.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/incourse.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/columns2.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/mod/quiz/renderer.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/renderers/core_renderer.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/columns1.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/course.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/theme/superatecleanfm/layout/perfil.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/mod/quiz/attempt.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/dml/moodle_database.php",
+		"/C/xampp/htdocs/UCBLMS/ucb/templates/default_site/includes.group/menu-offcanvas.html",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mdeploy.php",
+		"/C/xampp/htdocs/UCBLMS/LMSService/user_guide/general/core_classes.html",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/pix/t/collapsed_rtl.svg",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/pix/t/calc_off.svg",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/aws-sdk/Guzzle/Http/Exception/HttpException.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/help.php",
+		"/C/xampp/htdocs/UCBLMS/ucb/frontend/ventas.html",
+		"/C/xampp/htdocs/UCBLMS/ucb/templates/default_site/n_noticias.group/verify_entry.html",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/version.php",
+		"/C/xampp/htdocs/UCBLMS/actusuarios/config.bak.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.HostBlacklist.txt",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/outputrenderers.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/theme/ucbclean/layout/incourse.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/quiz/version.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/quiz/tests/fixtures/quizzes.csv",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/quiz/settings.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/COPYING.txt",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/.jshintrc",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/forumng/feature/options/forumngfeature_options.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/file.php",
+		"/C/xampp/htdocs/UCBLMS/ucb/app/assets/transformicons-templates/footer.hbs",
+		"/C/xampp/htdocs/UCBLMS/LMSService/application/config/constants.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/portfolio/constants.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/lib/grade/constants.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/lib/portfolio/constants.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/grade/constants.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/composer.json",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/form/header.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/install/lang/vi/moodle.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/version.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/calendar/yui/build/moodle-calendar-eventmanager/moodle-calendar-eventmanager.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/yui/build/moodle-core-event/moodle-core-event.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/lib/moodlelib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/course/yui/build/moodle-course-formatchooser/moodle-course-formatchooser.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/filter/mathjaxloader/yui/build/moodle-filter_mathjaxloader-loader/moodle-filter_mathjaxloader-loader.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/report/loglive/yui/build/moodle-report_loglive-fetchlogs/moodle-report_loglive-fetchlogs.js",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/vimeovideo/lib.php",
+		"/C/xampp/htdocs/UCBLMS/moodlecolaboradores/mod/vimeovideo/view.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/mod/vimeovideo/lib.php",
+		"/C/xampp/htdocs/UCBLMS/moodleventas/mod/vimeovideo/view.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\xampp\\htdocs\\UCBLMS.old\\moodleventas\\course",
+			"",
+			"C:\\xampp\\htdocs\\ucb\\moodlecolaboradores\\blocks\\course_list_progress",
+			"C:\\xampp\\htdocs\\ucb\\moodlecolaboradores\\blocks\\course_list_progress_electivos",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"asdasdfsdfsdfsd",
+			"maxforpage",
+			"#course-header h1",
+			"#plantillas .seleccion",
+			"course-header",
+			"select-minimalist",
+			"afiltroshtml",
+			"input.buscar-curso, input.buscar-curso:focus",
+			"#course-header h1",
+			"#course-header h1, #details_header h3, .pagelayout-incourse #contenido #maincontent+h2",
+			"h1",
+			"course-header",
+			"plugin",
+			"MIS CURSOS",
+			"h1",
+			"h3",
+			"h1",
+			"h2",
+			"block_pre_ucb",
+			"block_action",
+			"instance-10-header",
+			".block",
+			"0",
+			"select",
+			"FILTRAR POR GESTOR:",
+			"courseid",
+			"course",
+			"sql",
+			"instance",
+			"resultPage",
+			".btn-finalizados",
+			".inicio, .fin, .status, .btn-encurso, .btn-finalizados",
+			"div.qn-content>div.qn-answer>input[type=\"checkbox\"]:checked+label:before",
+			"content:\"",
+			"div.qn-content > div.qn-answer > input[type=\"checkbox\"] + label",
+			"input[type=\"radio\"]+label",
+			"input[type=\"radio\"]+label,",
+			"input[type=\"radio\"]+label, input[type=\"checkbox\"]+label",
+			"div.qn-content > div.qn-answer > label:before",
+			"h-electivos",
+			"array_of_elements",
+			"[options.padre]",
+			"array_of_elements",
+			"live",
+			"live(",
+			"show",
+			"$rutaslist",
+			"rutalist",
+			"div.table.libre div.tr div.td div.table-cell",
+			":nth-last-child(2)",
+			"tr:nth-last-child(2)",
+			"div.tr:nth-last-child(2)",
+			"div.tr:nth-last-child(2) div.td",
+			"div.tr:nth-last-child(1) div.td",
+			"finalizado",
+			".fin ",
+			"// finaliz",
+			"//finaliz",
+			"thead",
+			"delete-row",
+			"str_grade",
+			"diploma",
+			"grademax",
+			"notatext",
+			"grade_get_course_grade",
+			"form_certificado",
+			"$nota",
+			"form_certificado",
+			"descargar-certificado",
+			"form_certificado",
+			"requeridos",
+			"echo",
+			"if(!WURFL.is_mobile)$('#site-menu').addClass(\"toggle-nav\");",
+			"!WURFL",
+			"!WURFL.is_mobile",
+			"if(!WURFL.is_mobile)$('#site-menu').addClass(\"toggle-nav\");",
+			"showPage(page)",
+			"u.id",
+			"memory_limit",
+			"info",
+			"php_info",
+			"phpinfo",
+			"memory",
+			"memo",
+			"div.table.finalizados div.tr div.td:nth-last-child(2) div.table-cell",
+			"pix:theme",
+			"table",
+			"div.table.group div.tr div.td",
+			"˄",
+			"class˄",
+			"class˄=",
+			"icn",
+			"museo-sans",
+			"$this->content->text",
+			"$c-",
+			"\"fila\"",
+			"requeridos",
+			"AVANZANDO",
+			"$partes_curso->size = $partes_curso->size;",
+			"$criterial_complete",
+			"avanzando",
+			"($criterial_complete > 0 ? ($rwporcentaje < 100 ? 'AVANZANDO' : 'FINALIZADO') : '-')",
+			"partes_curso",
+			"<<<<<<",
+			".arrow.sep",
+			".breadcrumb",
+			"firs",
+			"first",
+			"<?php echo $OUTPUT->navbar(); ?>",
+			"course-content-heading",
+			"quizattemptcounts",
+			"course-content",
+			"quizatt",
+			"quiz",
+			"template",
+			"page",
+			"container-fluid",
+			"cont_contenido",
+			"SUPERATE_SOMOSBELCORP",
+			"http://superate2qa.somosbelcorp.com/",
+			"AMAZONWS_CONSULTORAS",
+			"http://superate2qa.somosbelcorp.com/",
+			"https://s3.amazonaws.com/consultorasQAS/",
+			"rc=\"https://s3.amazonaws.com/",
+			"https://s3.amazonaws.com/consultorasQAS/",
+			"enu/mismarcas_lbel.jpg\"  alt=\"L",
+			"https://consultorasqa.somosbelcorp.com/",
+			"https://s3.amazonaws.com/consultorasQAS/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"course_list_progress_electivos",
+			"block_course_list_progress_electivos",
+			".fila:hover{\n                    background: rgba(250, 200, 9, 0.1);\n                }",
+			" apointer ",
+			"PopupProveedor_Nuevo",
+			"alt=\"Agregar Proveedor\" href=\"javascript:void(0);\" onclick=\"ajaxpopup_nuevoProducto();\"",
+			"alt=\"Agregar Proveedor\" href=\"ajaxpopup_nuevoProducto();\"",
+			"<a data-toggle=\"modal\" data-target=\"#newProveedor\" title=\"Agregar Proveedor\" alt=\"Agregar Proveedor\" href=\"javascript:void(0);\">",
+			"$('[item]').remove(); $this.attr('selected','selected'); $this.parent().select(); return true; \n        }else{\n          e.preventDefault();\n          $('#btn-additem').focus();",
+			"$plan = $('[plan-selected]').val();\n            if($plan>0){\n                \n            }else{\n                e.preventDefault();\n                alert('debe escoger un Plan para poder agregar productos.');\n                $('[plan-selected]').focus();\n                return false;\n            }",
+			"$('#btn-additem').on('click',function(e)",
+			"\"_popup('newProveedor');\" title=\"Agregar Proveedor\" alt=\"Agregar Proveedor\"",
+			"\"_popup('newProveedor');\" title=\"Agregar Proveedor\" ",
+			"($buscar_serie != '' ? $buscar_serie : 22)",
+			"Logistica",
+			"Buscar Documento",
+			"Buscar Documento\n",
+			"</div><div class=\"col-xs-1 col-sm-1 col-md-1 col-lg-1\"><a onclick=\"_popup('newProveedor');\" href=\"javascript:void(0);\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADUgAAA1IBEAAkSgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANKSURBVEiJtZW/bxxVEMc/83bv1uczP0Lw2sDtnk8JJgKDCDICCUfiD0AUgLtEoqOADmpEQ4GUigYCQVAgBIgKCUQLogIXUIQAks+6tSP55EASX7Bjx/u+FN5zTo7Xsfgx0pP2zc7Md75v5s0zSfyf4g5iZGb2TwGsjEGSJLUgsFdBpyRS4Afg6yxbOi0pPyhAuCeqWZCmje8kXzdz75lp2XvFZvZ6kiQh8Oa/YtBsJieBM86FRxYWFpb7+jRNnzXTmdHRsXRubu769PR05eLF7qzEJCDn/GcLCxd+HYxVUgPNAmcHgwNkWfYlcNvKysoTAN1u9zGJt4pcZyQ7uTtSCYCFwE3U4jgeASrAuUL1pxlrnc7iG+C/Ajd8IADJvgBeStP0RF83NTVVHR6uvi9xvtPpXAIIw3BFIi6SWpMUt1qtiVarNdFoNA5DSQ3MzJrN+z6Q7BTb3TMPzICuQfCCWf6yxCNgo8CRLFuK0jQ9Dv5zUJG03e09cWmbAjQajckg4HnJjoJ+DILKR/V63fd6V3rec0LS5SiKuvPz81d2+zabjWXnKsd22rTI+knv3ShwFzAcBBZIuuacnZe4Q8pf6fUu/QSuEoZhBrCxsREW/i5Jkpkg2GFQdc7JJDE+Pl4fGqp8LOkBsGVgFViVWDUjl3CAOScH9r3Ea6B7i0CHJTsGPO6c3gZ+KerYybLFF0OAKKq8I9lyli09p4MNp09uHEUyBxwy81uSfdvpLM4OGva7KJb45oDBd8uGc37MzCKwaPfPnTY1y33/u+j3UpmYmLjnhp9+luysxGlJ2W7bgVlkAkiS5OFaLXoXeGqv4K1W41HJPgSOF6qhIPBPt9sXftvLfoDB9s01syHg9rLsvQ+ug+7s7yV7aGsrGCuzH7jJ1gfwoKDMAVg3s/rA/q/t878lQJ/BlsBKHyLn3JrEYI02zfJqmf1gDabTNK065yaBUgbOuXXvqZmZk1Q0RjmDEECyT0HPOKcHJRvZD6BWq633epukaeNys5kEoJ737vcy+5tmUZIkR53jHPAH4LeXcjAPeDO8xP1hWD3Ubrev3ur53HPYxXE8EkVR1XvvarXc5XnNSbI8z5333kVRtNlut7v7Bd4X4L+UvwHR5mUKo3MGwAAAAABJRU5ErkJgggd3a1bc1363e99fddc58ab04e3dbd5931\"/></a>\n",
+			"placeholder=\"Buscar por Documento\">\n<a onclick=\"_popup('newProveedor');\" href=\"javascript:void(0);\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADUgAAA1IBEAAkSgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANKSURBVEiJtZW/bxxVEMc/83bv1uczP0Lw2sDtnk8JJgKDCDICCUfiD0AUgLtEoqOADmpEQ4GUigYCQVAgBIgKCUQLogIXUIQAks+6tSP55EASX7Bjx/u+FN5zTo7Xsfgx0pP2zc7Md75v5s0zSfyf4g5iZGb2TwGsjEGSJLUgsFdBpyRS4Afg6yxbOi0pPyhAuCeqWZCmje8kXzdz75lp2XvFZvZ6kiQh8Oa/YtBsJieBM86FRxYWFpb7+jRNnzXTmdHRsXRubu769PR05eLF7qzEJCDn/GcLCxd+HYxVUgPNAmcHgwNkWfYlcNvKysoTAN1u9zGJt4pcZyQ7uTtSCYCFwE3U4jgeASrAuUL1pxlrnc7iG+C/Ajd8IADJvgBeStP0RF83NTVVHR6uvi9xvtPpXAIIw3BFIi6SWpMUt1qtiVarNdFoNA5DSQ3MzJrN+z6Q7BTb3TMPzICuQfCCWf6yxCNgo8CRLFuK0jQ9Dv5zUJG03e09cWmbAjQajckg4HnJjoJ+DILKR/V63fd6V3rec0LS5SiKuvPz81d2+zabjWXnKsd22rTI+knv3ShwFzAcBBZIuuacnZe4Q8pf6fUu/QSuEoZhBrCxsREW/i5Jkpkg2GFQdc7JJDE+Pl4fGqp8LOkBsGVgFViVWDUjl3CAOScH9r3Ea6B7i0CHJTsGPO6c3gZ+KerYybLFF0OAKKq8I9lyli09p4MNp09uHEUyBxwy81uSfdvpLM4OGva7KJb45oDBd8uGc37MzCKwaPfPnTY1y33/u+j3UpmYmLjnhp9+luysxGlJ2W7bgVlkAkiS5OFaLXoXeGqv4K1W41HJPgSOF6qhIPBPt9sXftvLfoDB9s01syHg9rLsvQ+ug+7s7yV7aGsrGCuzH7jJ1gfwoKDMAVg3s/rA/q/t878lQJ/BlsBKHyLn3JrEYI02zfJqmf1gDabTNK065yaBUgbOuXXvqZmZk1Q0RjmDEECyT0HPOKcHJRvZD6BWq633epukaeNys5kEoJ737vcy+5tmUZIkR53jHPAH4LeXcjAPeDO8xP1hWD3Ubrev3ur53HPYxXE8EkVR1XvvarXc5XnNSbI8z5333kVRtNlut7v7Bd4X4L+UvwHR5mUKo3MGwAAAAABJRU5ErkJgggd3a1bc1363e99fddc58ab04e3dbd5931\"/></a>",
+			">Tipo :<"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "reportes.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plantillas",
+				"pre_ucb\\moodlecolaboradores\\blocks\\pre_ucb\\plantillas.php"
+			],
+			[
+				"theme/ucbclean/style/ucb.css",
+				"theme\\ucbclean\\style\\ucb.css"
+			],
+			[
+				"script",
+				"theme\\ucbclean\\javascript\\script.js"
+			],
+			[
+				"phpinfo",
+				"admin\\phpinfo.php"
+			],
+			[
+				"admin/phpinfo.php",
+				"admin\\phpinfo.php"
+			],
+			[
+				"mod/quiz/rend",
+				"moodleventas\\mod\\quiz\\renderer.php"
+			],
+			[
+				"core_re",
+				"moodleventas\\theme\\superatecleanfm\\renderers\\core_renderer.php"
+			],
+			[
+				"headermenu",
+				"moodleventas\\theme\\superatecleanfm\\layout\\headermenu.php"
+			],
+			[
+				"ventas/config.ba",
+				"moodleventas\\config.bak.php"
+			],
+			[
+				"config.ba",
+				"actusuarios\\config.bak.php"
+			],
+			[
+				"config",
+				"moodleventas\\config.php"
+			],
+			[
+				"ventas/confi",
+				"moodleventas\\config.php"
+			],
+			[
+				"mod/quiz/view",
+				"moodlecolaboradores\\mod\\quiz\\view.php"
+			],
+			[
+				"ventas/config",
+				"moodleventas\\config.php"
+			],
+			[
+				"headerme",
+				"moodleventas\\theme\\superatecleanfm\\layout\\headermenu.php"
+			],
+			[
+				"headermen",
+				"moodleventas\\theme\\superatecleanfm\\layout\\headermenu.php"
+			],
+			[
+				"footerme",
+				"moodleventas\\theme\\superatecleanfm\\layout\\footermenu.php"
+			],
+			[
+				"constants",
+				"LMSService\\application\\config\\constants.php"
+			],
+			[
+				"moodleventas/vimeo",
+				"moodleventas\\theme\\superatecleanfm\\javascript\\vimeovideo.js"
+			],
+			[
+				"vimeovi",
+				"moodlecolaboradores\\theme\\ucbclean\\javascript\\vimeovideo.js"
+			],
+			[
+				"mod/quiz/attempt.php",
+				"moodleventas\\mod\\quiz\\attempt.php"
+			],
+			[
+				"vimeo",
+				"moodlecolaboradores\\theme\\ucbclean\\javascript\\vimeovideo.js"
+			],
+			[
+				"incourse",
+				"moodleventas\\theme\\superatecleanfm\\layout\\incourse.php"
+			],
+			[
+				"database",
+				"ServiceADAM\\application\\config\\database.php"
+			],
+			[
+				".txt",
+				"moodlecolaboradores\\lib\\tcpdf\\CHANGELOG.TXT"
+			],
+			[
+				"log",
+				"moodlecolaboradores\\backup\\log.php"
+			],
+			[
+				"log.txt",
+				"moodleventas\\auth\\belcorpws\\log_principal.txt"
+			],
+			[
+				"log.",
+				"moodlecolaboradores\\backup\\log.php"
+			],
+			[
+				"footemenu",
+				"moodleventas\\theme\\superatecleanfm\\layout\\footermenu.php"
+			],
+			[
+				"heademenu",
+				"moodleventas\\theme\\superatecleanfm\\layout\\headermenu.php"
+			],
+			[
+				"moodleventas/config",
+				"moodleventas\\config.php"
+			],
+			[
+				"foote",
+				"moodleventas\\theme\\superatecleanfm\\layout\\footermenu.php"
+			],
+			[
+				"head",
+				"moodleventas\\theme\\superatecleanfm\\layout\\headermenu.php"
+			],
+			[
+				"filtros.js",
+				"moodlecolaboradores\\blocks\\course_list_progress\\jquery\\jquerymodule\\filtros.js"
+			],
+			[
+				"saveg",
+				"moodlecolaboradores\\local\\coursegroup\\savegroup.php"
+			],
+			[
+				"plugin/",
+				"moodlecolaboradores\\lib\\yuilib\\3.15.0\\plugin\\plugin-min.js"
+			],
+			[
+				"froogaloop",
+				"moodlecolaboradores\\theme\\ucbclean\\javascript\\froogaloop.js"
+			],
+			[
+				"ucb",
+				"moodlecolaboradores\\theme\\ucbclean\\style\\ucb.css"
+			],
+			[
+				"museosans-300-webfont.woff",
+				"moodlecolaboradores\\theme\\nuevaucb\\fonts\\museosans-300-webfont.woff"
+			],
+			[
+				"ucb.css",
+				"moodleventas\\theme\\superatecleanfm\\style\\ucb.css"
+			],
+			[
+				"htmltemplate",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"mco",
+				"application\\models\\COMPRASYGASTOS\\m_Compras.php"
+			],
+			[
+				"htmltem",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"ordencompra",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"style",
+				"statics\\css\\theme\\style.css"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"mbase",
+				"application\\models\\mBase.php"
+			],
+			[
+				"notadebito",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_NotadeDebitoProveedores_landing.php"
+			],
+			[
+				"global",
+				"application\\core\\GlobalFn.php"
+			],
+			[
+				"footer",
+				"application\\views\\template\\theme\\footer.php"
+			],
+			[
+				"ordendecompralan",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"view_afp",
+				"application\\views\\modules\\Administracion\\view_Administracion_rrhh_Afp_landing.php"
+			],
+			[
+				"tipodoc",
+				"application\\views\\modules\\Administracion\\view_Administracion_Compras_TipoDocumento_landing.php"
+			],
+			[
+				"almacen",
+				"application\\views\\modules\\Administracion\\view_Administracion_Inventario_Almacen_landing.php"
+			],
+			[
+				"view_area",
+				"application\\views\\modules\\Administracion\\view_Administracion_rrhh_Area_landing.php"
+			],
+			[
+				"plugins",
+				"application\\views\\template\\theme\\plugins.php"
+			],
+			[
+				"popup",
+				"application\\views\\modules\\base\\view_popup_newProveedor.php"
+			],
+			[
+				"arealand",
+				"application\\views\\modules\\Administracion\\view_Administracion_rrhh_Area_landing.php"
+			],
+			[
+				"viewafp",
+				"application\\views\\modules\\Administracion\\view_Administracion_rrhh_Afp_landing.php"
+			],
+			[
+				"compra",
+				"application\\controllers\\COMPRASYGASTOS\\Compras.php"
+			],
+			[
+				"view_orden",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"proveedorbuscar",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Buscar.php"
+			],
+			[
+				"producto",
+				"application\\views\\modules\\LOGISTICA\\view_Producto_Nuevo_landing.php"
+			],
+			[
+				"view_compras_proveedor_nuevo",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Nuevo.php"
+			],
+			[
+				"provee",
+				"application\\controllers\\COMPRASYGASTOS\\Proveedor.php"
+			],
+			[
+				"compras",
+				"application\\controllers\\COMPRASYGASTOS\\Compras.php"
+			],
+			[
+				"view_proveedor",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_landing.php"
+			],
+			[
+				"cbase",
+				"application\\controllers\\cBase.php"
+			],
+			[
+				"viewordencompraland",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"htmlte",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"viewentrada",
+				"application\\views\\modules\\LOGISTICA\\view_Logistica_Entrada_landing.php"
+			],
+			[
+				"m_compras",
+				"application\\models\\COMPRASYGASTOS\\m_Compras.php"
+			],
+			[
+				"viewnotadebitolandi",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_NotadeDebitoProveedores_landing.php"
+			],
+			[
+				"viewnotacredito",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_NotadeCreditoProveedores_landing.php"
+			],
+			[
+				"gastos",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_Gastos_landing.php"
+			],
+			[
+				"guiade",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_GuiadeEntrada_landing.php"
+			],
+			[
+				"viewgastosland",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_Gastos_landing.php"
+			],
+			[
+				"viewcompras",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_landing.php"
+			],
+			[
+				"m_compr",
+				"application\\models\\COMPRASYGASTOS\\m_Compras.php"
+			],
+			[
+				"logis",
+				"application\\models\\LOGISTICA\\m_Logistica.php"
+			],
+			[
+				"pplugins",
+				"application\\views\\template\\theme\\plugins.php"
+			],
+			[
+				"viewgastoslan",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_Gastos_landing.php"
+			],
+			[
+				"ordendecompra",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"viewcomprocompra",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_ComprobantesdeCompra_landing.php"
+			],
+			[
+				"view_orde",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"mcompras",
+				"application\\models\\COMPRASYGASTOS\\m_Compras.php"
+			],
+			[
+				"m_logis",
+				"application\\models\\LOGISTICA\\m_Logistica.php"
+			],
+			[
+				"entrada",
+				"application\\controllers\\LOGISTICA\\Entrada.php"
+			],
+			[
+				"m_logisit",
+				"application\\models\\LOGISTICA\\m_Logistica.php"
+			],
+			[
+				"view_notadebito",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_NotadeDebitoProveedores_landing.php"
+			],
+			[
+				"code",
+				"system\\core\\CodeIgniter.php"
+			],
+			[
+				"proveedor",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Buscar.php"
+			],
+			[
+				"plugin",
+				"application\\views\\template\\theme\\plugins.php"
+			],
+			[
+				"view_proveed",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Nuevo.php"
+			],
+			[
+				"importar",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Importacion_OrdenesdeCompra_Importar.php"
+			],
+			[
+				"imp",
+				"application\\controllers\\COMPRASYGASTOS\\Importacion.php"
+			],
+			[
+				"viewproveenuevo",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Nuevo.php"
+			],
+			[
+				"mpr",
+				"application\\models\\COMPRASYGASTOS\\m_Proveedor.php"
+			],
+			[
+				"comproban",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_ComprobantesdeCompra_landing.php"
+			],
+			[
+				"orden",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_Nuevo.php"
+			],
+			[
+				"comprobante",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_ComprobantesdeCompra_landing.php"
+			],
+			[
+				"compro",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_ComprobantesdeCompra_landing.php"
+			],
+			[
+				"comprobanuevo",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_NotadeDebitoProveedores_Nuevo.php"
+			],
+			[
+				"globa",
+				"application\\core\\GlobalFn.php"
+			],
+			[
+				"recursoshumanos/view_home.php",
+				"application\\views\\modules\\RecursosHumanos\\view_home.php"
+			],
+			[
+				"view_ordenland",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_OrdendeCompra_landing.php"
+			],
+			[
+				"htmlt",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"m_c",
+				"application\\models\\COMPRASYGASTOS\\m_Compras.php"
+			],
+			[
+				"m_",
+				"application\\models\\RRHH\\m_Asistencia.php"
+			],
+			[
+				"m_pr",
+				"application\\models\\COMPRASYGASTOS\\m_Proveedor.php"
+			],
+			[
+				"bienve",
+				"application\\controllers\\HOME\\Bienvenida.php"
+			],
+			[
+				"home",
+				"application\\views\\modules\\gastos\\view_home.php"
+			],
+			[
+				"viewasisrefrig",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Asistencia_Asistencia_SalidaRefrigerio.php"
+			],
+			[
+				"viewasisrefri",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Asistencia_Asistencia_InicioRefrigerio.php"
+			],
+			[
+				"viewrecsalida",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Asistencia_Asistencia_Salida.php"
+			],
+			[
+				"asistencia",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Asistencia_Asistencia_Entrada.php"
+			],
+			[
+				"htm",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"template",
+				"application\\views\\template\\theme\\template.php"
+			],
+			[
+				"m_pers",
+				"application\\models\\RRHH\\m_Personal.php"
+			],
+			[
+				"proveedo",
+				"application\\models\\COMPRASYGASTOS\\m_Proveedor.php"
+			],
+			[
+				"personal",
+				"application\\controllers\\RRHH\\Personal.php"
+			],
+			[
+				"comprobantes",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Compras_ComprobantesdeCompra_landing.php"
+			],
+			[
+				"viewcomprasbuscar",
+				"application\\views\\modules\\COMPRASYGASTOS\\view_Compras_Proveedor_Buscar.php"
+			],
+			[
+				"modules/recursoshumanos/view_recursoshumanos_personal_personal_nuevo.php",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Personal_Personal_Nuevo.php"
+			],
+			[
+				"m_pe",
+				"application\\models\\RRHH\\m_Personal.php"
+			],
+			[
+				"html",
+				"application\\libraries\\HTMLCompact\\HTMLTemplate.php"
+			],
+			[
+				"view_recursoshumanos_personal_personal_nuevo",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Personal_Personal_Nuevo.php"
+			],
+			[
+				"personalnuevo",
+				"application\\views\\modules\\RecursosHumanos\\view_RecursosHumanos_Personal_Personal_Nuevo.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\developer\\RRHH Descanso Medico.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"showPage",
+				"showPage"
+			],
+			[
+				"islog",
+				"isLoggedIn"
+			],
+			[
+				"islo",
+				"isLoggedIn"
+			],
+			[
+				"cargar_contenido_personal",
+				"cargar_contenido_personal"
+			],
+			[
+				"pesta",
+				"pestana2"
+			],
+			[
+				"pestana",
+				"pestana"
+			],
+			[
+				"session_exist",
+				"session_exist"
+			],
+			[
+				"SP_vali",
+				"SP_validateuser"
+			],
+			[
+				"menulatera",
+				"menulateral"
+			]
+		],
+		"width": 747.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
